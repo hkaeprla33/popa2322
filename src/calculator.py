@@ -1,7 +1,7 @@
 """Простой калькулятор с базовыми арифметическими операциями."""
 
 def add(a: float, b: float) -> float:
-    """Сложение."""
+    """Складывает два числа (ветка UI)."""
     return a + b
 
 def subtract(a: float, b: float) -> float:
