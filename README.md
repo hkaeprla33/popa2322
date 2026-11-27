@@ -7,7 +7,7 @@
 ## 📦 Установка
 
 ```bash
-git clone https://github.com/hkaepr1a33/popa2322.git
+git clone https://github.com/hkaeprla33/popa2322.git
 cd popa2322
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
